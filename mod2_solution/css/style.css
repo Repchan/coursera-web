@@ -42,6 +42,12 @@ h2{
 	padding: 5px;
 
 }
+.col-lg-4:nth-child(2) h2{
+background-color:lightblue;
+}
+.col-lg-4:nth-child(3) h2{
+background-color:yellow;
+}
 .col-lg-4 p {
 	margin-top: 40px;
 }
